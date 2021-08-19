@@ -1,0 +1,14 @@
+{
+"companyName": "PENGUlN_umigame",
+"productName": "LatelateOneNightWerewolf_v1.1",
+"dataUrl": "LateOneWolf_forWebGL_v1.1.data.unityweb",
+"asmCodeUrl": "LateOneWolf_forWebGL_v1.1.asm.code.unityweb",
+"asmMemoryUrl": "LateOneWolf_forWebGL_v1.1.asm.memory.unityweb",
+"asmFrameworkUrl": "LateOneWolf_forWebGL_v1.1.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "LateOneWolf_forWebGL_v1.1.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
